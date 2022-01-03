@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ferdiantech
+- 👋 Hi, I’m Ferdian
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning on very base computer science.
 - 💞️ I’m looking to collaborate on ... maybe later after I have some progress in my learning.
